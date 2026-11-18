@@ -16,7 +16,8 @@ Detachment does not change the project's origin or claim upstream endorsement.
 
 [Fork releases](https://github.com/maskarauder/slime2-desktop/releases) ·
 [Fork issues and support](https://github.com/maskarauder/slime2-desktop/issues) ·
-[Independence notice and original credits](NOTICE.md)
+[Independence notice and original credits](NOTICE.md) ·
+[Maskarauder project hub](https://maskarauder.com/)
 
 The original [LICENSE](LICENSE) and [AGPLv3-or-later license text](COPYING) are
 retained. Please direct support requests for this fork to this repository.
